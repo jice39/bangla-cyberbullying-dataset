@@ -1,8 +1,11 @@
-This dataset contains Bangla meme-based content collected for academic research on cyberbullying detection. 
-The data is intended for deep learning, NLP, and multimodal analysis.
+Bangla Cyberbullying Meme Dataset (Multiclass)
+------------------------------------------
 
-Purpose:
-- Binary classification (Bullying / Non-bullying).
+This dataset contains Bangla meme-based content collected for academic research on cyberbullying detection. 
+It is intended for use in machine learning, NLP, and multimodal analysis.
+
+Task:
+- Multiclass classification: Normal, Hate, Troll, Threat, Sexual
 
 Notes:
 - Some images and texts include offensive or sexual language because they are part of cyberbullying research.
